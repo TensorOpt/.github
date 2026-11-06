@@ -24,7 +24,7 @@ A missed or wrong document, clause, or figure can have legal or financial conseq
 
 ### Portals & intranets (Liferay)
 
-A free open-source plugin [liferay-search-eval-logger](https://github.com/TensorOpt/liferay-search-eval-logger) records user searches and the results shown, which the base Liferay DXP does not keep.
+A free open-source plugin [liferay-search-eval-logger](https://github.com/TensorOpt/liferay-search-eval-logger) (available on [Liferay Marketplace](https://marketplace.liferay.com/web/marketplace/p/search-eval-logger)) records user searches and the results shown, which the base Liferay DXP does not keep.
 When you have data, TensorOpt measures it independently.
 
 ## Consulting Packages
